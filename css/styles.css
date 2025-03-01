@@ -225,6 +225,27 @@ a:hover {
     line-height: 1.7;
 }
 
+/* Skills 
+--------------*/
+.skills-item {
+    margin: 30px 0;
+}
+.skills-item h3 {
+    line-height: 1.2;
+}
+
+/* Languages 
+--------------*/
+.language-item {
+    margin: 30px 0;
+}
+
+/* Interests 
+--------------*/
+.interest-item {
+    margin: 30px 0;
+}
+
 
 /* FOOTER 
 -----------*/
